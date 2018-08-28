@@ -5,6 +5,6 @@ def my_collect(array)
    another_array = another_array + new_array
    i = i+ 1
   end
-  another_array_array
+  another_array
 end
 
